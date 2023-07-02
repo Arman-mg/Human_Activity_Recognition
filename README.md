@@ -13,3 +13,5 @@ The data were collected at a frequency of 25 Hz from the various sensors on the 
 Feature Extraction
 
 A discrete-time sequence was obtained after capturing the signals as described above. The first set of features were derived from the minimum and maximum values, the mean, variance, skewness, kurtosis, autocorrelation sequence, and the peaks of the Discrete Fourier Transform (DFT) of components at the relevant frequencies.
+
+The data is [***here***](https://archive.ics.uci.edu/ml/datasets/Daily+and+Sports+Activities) to downlod.
